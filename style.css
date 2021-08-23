@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ededeb;
+}
+.box{
+    margin: auto;
+}
+.full{
+    width: 60%;
+    height: 70vh;
+    
+}
+.one{
+    position: relative;
+    width: 100%;
+    height: 90vh;
+}
+.image img{
+    width:100%;
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid rgb(179, 176, 176);
+    background-color: white;
+}
+.photo,
+.text{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top:420px;
+}
+.photo img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    max-width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.text h6{
+    width: 200px;
+    margin-top: 20px;
+}
+.two{
+    margin-top: 150px;
+}
+.farmer{
+    border: 1px solid rgb(179, 176, 176);
+    background-color: white;
+    width: 60%;
+}
+.farmer h6{
+    border-bottom: 1px solid rgb(209, 208, 208);
+    width: 104%;
+    text-align: center;
+    background-color:rgb(228, 225, 225) ;
+    padding: 10px 0px;
+}
+.ig{
+    width: 45%;
+    height: 40vh;
+}
+.three{
+    margin-top: 80px;
+}
+.des{
+    width: 60%;
+    border: 1px solid rgb(179, 176, 176);
+    background-color: white;
+}
+.des h6{
+    border-bottom: 1px solid rgb(209, 208, 208);
+    width: 104%;
+    text-align: center;
+    background-color:rgb(228, 225, 225) ;
+    padding: 10px 0px;
+}
+.tx p{
+    text-align: center;
+}
+.product{
+    width: 60%;
+    border: 1px solid rgb(179, 176, 176);
+    background-color: white;
+}
+.product h6{
+    width: 104%;
+    text-align: center;
+    border-bottom: 1px solid rgb(209, 208, 208);
+    background-color:rgb(228, 225, 225) ;
+    padding: 10px 0px;
+}
+.order{
+    margin-bottom: 0px;
+    padding: 6px 0px;
+}
+.delivery{
+    margin-top: 100px;
+    width: 60%;
+    border: 1px solid rgb(179, 176, 176);
+    background-color: white;
+}
+.delivery h6{
+    border-bottom: 1px solid rgb(209, 208, 208);
+    text-align: center;
+    width: 104%;
+    background-color:rgb(228, 225, 225) ;
+    padding: 10px 0px;
+}
+.delivery p{
+    text-align: center;
+}
+.location{
+    margin-top: 100px;
+    width: 60%;
+    border: 1px solid rgb(179, 176, 176);
+    background-color: white;
+}
+.location h6{
+    border-bottom: 1px solid rgb(209, 208, 208);
+    text-align: center;
+    width: 104%;
+    background-color:rgb(228, 225, 225) ;
+    padding: 10px 0px;
+}
+.location img{
+    width: 100%;
+    height: 40vh;
+}
